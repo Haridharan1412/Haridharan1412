@@ -167,11 +167,56 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**📊 Sales Insights Dashboard**](#) | Power BI · SQL · Excel · Power Query | Cleaned & transformed **1,000+ rows** of raw sales data; built interactive KPI dashboard tracking revenue, profit margin & regional sales growth; identified top-performing products & underperforming regions with actionable recommendations |
+| [**📊 Sales Insights Dashboard**](#) | Power BI · SQL · MySQL · Power Query · DAX | **3-page interactive dashboard** (Key Insights · Profit Analysis · Performance Insights); KPIs: **₹142M revenue**, **350K sales qty**, **₹2.1M total profit margin** (2020); star-schema data model across 5 tables (transactions, customers, markets, products, date); USD→INR currency normalisation via Power Query `norm_amount` column; **9 SQL queries** for EDA — market-wise filtering, yearly & monthly revenue aggregation, multi-currency joins; top customer **Electricalsara Stores ₹66M**; Delhi NCR leads at **54.7% revenue contribution**; Lucknow identified as loss market at **−2.7% profit margin** |
 | [**🤖 Gesture-Controlled PowerPoint**](#) | Python · OpenCV · cvzone · NumPy · SpeechRecognition | Real-time **1280×720** hand-tracking system using cvzone's HandDetector (80% confidence); **5 gesture commands** — index finger draws annotations, 2-finger pointer, 3-finger undo, thumb-left/pinky-right for slide navigation; live webcam feed overlaid as PiP thumbnail; extended version adds **Slider** (all-5-fingers, 2s hold) and **Pen mode** (3-finger) indicators; works hands-free with zero physical peripherals |
 | [**🏥 IoT Fall Detection System for Elderly**](#) | Arduino · ESP8266 · MPU6050 | Accelerometer-based fall detection with real-time wireless alerts to caregivers; iterative calibration to minimise false positives; instant notification via ESP8266 Wi-Fi module |
 
 </div>
+
+<details>
+<summary><b>📊 Sales Insights Dashboard — Data Model & SQL Reference</b></summary>
+<br/>
+
+**Star Schema — 5 Tables**
+
+| Table | Key Fields |
+|:------|:-----------|
+| `Sales transactions` | order_date, product_code, market_code, currency, sales_amount, norm_sales_amount, Cost_Price, Profit_Margin, ProfitMargin% |
+| `sales customers` | customer_name, customer_code, customer_type |
+| `sales markets` | markets_code, markets_name, zone |
+| `sales products` | product_code, product_type |
+| `sales date` | date, cy_date, date_yy_mmm, month_name, year |
+
+**Key SQL Queries**
+```sql
+-- Total revenue in 2020 (multi-currency)
+SELECT SUM(transactions.sales_amount)
+FROM transactions
+INNER JOIN date ON transactions.order_date = date.date
+WHERE date.year = 2020
+  AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
+
+-- Chennai-specific transactions
+SELECT * FROM transactions WHERE market_code = 'Mark001';
+
+-- Monthly revenue (Jan 2020)
+SELECT SUM(transactions.sales_amount)
+FROM transactions
+INNER JOIN date ON transactions.order_date = date.date
+WHERE date.year = 2020 AND date.month_name = 'January';
+```
+
+**Power Query — Currency Normalisation**
+```
+= Table.AddColumn(#"Filtered Rows", "norm_amount",
+    each if [currency] = "USD" or [currency] = "USD#(cr)"
+    then [sales_amount] * 75
+    else [sales_amount], type any)
+```
+
+> Dashboard has **3 report pages**: Key Insights · Profit Analysis · Performance Insights · Year/Month slicers (2017–2020)
+
+</details>
 
 <details>
 <summary><b>🖐️ Gesture-Controlled PowerPoint — Gesture Command Reference</b></summary>
