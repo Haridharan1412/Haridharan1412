@@ -168,10 +168,28 @@ print(me.motto())
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | [**📊 Sales Insights Dashboard**](#) | Power BI · SQL · Excel · Power Query | Cleaned & transformed **1,000+ rows** of raw sales data; built interactive KPI dashboard tracking revenue, profit margin & regional sales growth; identified top-performing products & underperforming regions with actionable recommendations |
-| [**🤖 AI Hand Gesture Recognition for PowerPoint**](#) | Python · OpenCV · Machine Learning | Real-time gesture-controlled slide navigation; trained on custom gesture dataset achieving reliable accuracy across varied lighting; eliminated dependency on physical presentation peripherals |
+| [**🤖 Gesture-Controlled PowerPoint**](#) | Python · OpenCV · cvzone · NumPy · SpeechRecognition | Real-time **1280×720** hand-tracking system using cvzone's HandDetector (80% confidence); **5 gesture commands** — index finger draws annotations, 2-finger pointer, 3-finger undo, thumb-left/pinky-right for slide navigation; live webcam feed overlaid as PiP thumbnail; extended version adds **Slider** (all-5-fingers, 2s hold) and **Pen mode** (3-finger) indicators; works hands-free with zero physical peripherals |
 | [**🏥 IoT Fall Detection System for Elderly**](#) | Arduino · ESP8266 · MPU6050 | Accelerometer-based fall detection with real-time wireless alerts to caregivers; iterative calibration to minimise false positives; instant notification via ESP8266 Wi-Fi module |
 
 </div>
+
+<details>
+<summary><b>🖐️ Gesture-Controlled PowerPoint — Gesture Command Reference</b></summary>
+<br/>
+
+| Gesture | Fingers Up | Action |
+|:--------|:-----------|:-------|
+| ☝️ Index only | `[0,1,0,0,0]` | Draw / annotate on slide |
+| ✌️ Index + Middle | `[0,1,1,0,0]` | Pointer cursor (no annotation) |
+| 🤟 Index + Middle + Ring | `[0,1,1,1,0]` | Undo last annotation |
+| 👍 Thumb only (above threshold) | `[1,0,0,0,0]` | Previous slide |
+| 🤙 Pinky only (above threshold) | `[0,0,0,0,1]` | Next slide |
+| ✋ All five fingers (hold 2s) | `[1,1,1,1,1]` | Slider mode ON |
+| 🤘 Middle + Ring + Pinky | `[0,0,1,1,1]` | Pen mode ON |
+
+> Built with **cvzone** `HandDetector` at 80% confidence · **1280×720** resolution · gesture threshold at y=300px · 30-frame debounce delay
+
+</details>
 
 ---
 
