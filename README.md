@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haridharan-ks&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/hari-dharan-ks">
+  <a href="https://www.linkedin.com/in/hari-dharan-ks-64325a287">
     <img src="https://img.shields.io/badge/LinkedIn-hari--dharan--ks-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:haridharanw800@gmail.com">
