@@ -29,7 +29,7 @@ class Haridharan:
     def __init__(self):
         self.name           = "Haridharan KS"
         self.location       = "Tamil Nadu, India 🇮🇳"
-        self.degree         = "B.Tech – ECE, VIT Chennai (CGPA: 7.52)"
+        self.degree         = "B.Tech – ECE, VIT Chennai"
         self.email          = "haridharanw800@gmail.com"
 
         self.stack = [
@@ -118,7 +118,7 @@ print(me.motto())
 - Graduated with a B.Tech in Electronics & Communication Engineering from VIT Chennai (2025).
 - Gained strong foundations in embedded systems, IoT, and signal processing.
 - Self-learned data analytics tools (SQL, Power BI, Python/Pandas) alongside core ECE curriculum.
-- Served as Discipline Committee Member for Vibrance (cultural fest) and Hostel Representative for C Block Boys Hostel.
+- Served as Discipline Committee Member for Vibrance (cultural fest) and Hostel Representative for Boys Hostel.
 
 </details>
 
