@@ -61,7 +61,7 @@ print(me.motto())
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -92,7 +92,7 @@ print(me.motto())
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil%20%CE%BCVision-007ACC?style=flat-square&logo=arm&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📊 GitHub Stats
 
@@ -105,7 +105,7 @@ print(me.motto())
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 💼 Education & Certifications
 
@@ -135,7 +135,7 @@ print(me.motto())
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🚀 Featured Projects
 
@@ -212,7 +212,7 @@ WHERE date.year = 2020 AND date.month_name = 'January';
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🏅 Achievements
 
@@ -230,7 +230,7 @@ WHERE date.year = 2020 AND date.month_name = 'January';
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📚 Currently Learning
 
@@ -242,7 +242,7 @@ WHERE date.year = 2020 AND date.month_name = 'January';
 📈 Statistics         →  Hypothesis Testing, Regression Analysis, A/B Testing
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🌐 Languages
 
@@ -250,7 +250,7 @@ WHERE date.year = 2020 AND date.month_name = 'January';
 ![Tamil](https://img.shields.io/badge/Tamil-Native-bf91f3?style=flat-square)
 ![Hindi](https://img.shields.io/badge/Hindi-Limited%20Proficiency-38bdae?style=flat-square)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
   <i>"Data is the new oil. The question is — can you refine it?"</i>
