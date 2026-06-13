@@ -113,7 +113,7 @@ print(me.motto())
 <summary><b>🎓 B.Tech – Electronics & Communication Engineering | VIT Chennai | 2021–2025</b></summary>
 <br/>
 
-> ![VIT](https://img.shields.io/badge/VIT%20Chennai-8B0000?style=flat-square) ![CGPA](https://img.shields.io/badge/CGPA-7.52%2F10-70a5fd?style=flat-square) ![ECE](https://img.shields.io/badge/ECE-bf91f3?style=flat-square)
+> ![VIT](https://img.shields.io/badge/VIT%20Chennai-8B0000?style=flat-square) ![ECE](https://img.shields.io/badge/ECE-bf91f3?style=flat-square)
 
 - Graduated with a B.Tech in Electronics & Communication Engineering from VIT Chennai (2025).
 - Gained strong foundations in embedded systems, IoT, and signal processing.
