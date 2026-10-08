@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haridharan%20KS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Actionable%20Insights&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haridharan%20KS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20System%20%7C%20VLSI%207C%20PCB%20Design%20Actionable&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
