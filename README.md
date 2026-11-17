@@ -107,6 +107,8 @@ print(me.motto())
 ![Microsoft Azure](https://img.shields.io/badge/Azure%20(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power-BI-4479A1?style=flat-square&logo=Power-BI&logoColor=yellow)
+![Excel](https://img.shields.io/badge/Excel-4479A1?style=flat-square&logo=Excel&logoColor=green)
 
 ---
 
