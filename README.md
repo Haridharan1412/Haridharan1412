@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haridharan%20KS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20System%20%7C%20VLSI%20%7C%20PCB%20Design&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haridharan%20KS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20FPGA%20%7C%20IoT&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Haridharan+KS+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+SQL+%2B+Power+BI;ECE+Graduate+%7C+VIT+Chennai+%F0%9F%8E%93;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Haridharan+KS+%F0%9F%91%8B;ECE+Graduate+%7C+VIT+Chennai+%F0%9F%8E%93;Embedded+Systems+%7C+VLSI+%7C+FPGA+%7C+IoT;Building+hardware+that+thinks+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,118 +22,94 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+I'm an **Electronics & Communication Engineering graduate from VIT Chennai (2025)** with a strong foundation in **Embedded Systems, VLSI Design, and IoT**. My hands-on experience spans **FPGA-based development, hardware-software integration, and electronic system design**. I'm looking to contribute to semiconductor technologies and innovative engineering solutions in **Core Electronics, Embedded, VLSI, FPGA, and IoT** roles.
 
 ```python
 class Haridharan:
     def __init__(self):
-        self.name           = "Haridharan KS"
-        self.location       = "Tamil Nadu, India 🇮🇳"
-        self.degree         = "B.Tech – ECE, VIT Chennai"
-        self.email          = "haridharanw800@gmail.com"
+        self.name     = "Haridharan KS"
+        self.location = "Tamil Nadu, India 🇮🇳"
+        self.degree   = "B.Tech – ECE, VIT Chennai (2025)"
 
-        self.stack = [
-            "SQL", "Power BI", "Python (Pandas)",
-            "Microsoft Excel", "MySQL", "Java"
+        self.focus_areas = [
+            "Embedded Systems", "VLSI Design", "FPGA Development",
+            "IoT Systems", "Digital Electronics", "Hardware-Software Integration"
         ]
 
-        self.currently_learning = [
-            "Advanced DAX for Power BI",
-            "Machine Learning with Scikit-learn",
-            "Azure Data Services"
-        ]
+        self.languages = ["Embedded C", "Verilog HDL", "Python (Pandas)"]
 
-        self.certifications = [
-            "MySQL – IIT Bombay",
-            "Java – IIT Bombay",
-            "Google Cloud Computing Foundations",
-            "Microsoft Azure Administrator (AZ-104)"
-        ]
+        self.hardware = ["ESP32", "Arduino", "ESP8266", "MPU6050"]
 
-        self.fun_fact = "I built a gesture-controlled PowerPoint — no clicker needed! 🖐️"
+        self.looking_for = "Core Electronics · Embedded · VLSI · FPGA · IoT opportunities"
 
     def motto(self):
-        return "Data is the new oil. I refine it. 🔥"
+        return "From silicon to systems — design it, build it, debug it. 🔧"
 
 me = Haridharan()
 print(me.motto())
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-**Languages**
+**Programming Languages**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog%20HDL-543978?style=flat-square&logo=verilog&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-543978?style=flat-square)
+![Python](https://img.shields.io/badge/Python%20(Pandas)-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Data & Visualization**
+**Embedded Systems & Microcontrollers**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Cloud & DevOps**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil%20%CE%BCVision-007ACC?style=flat-square&logo=arm&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-4B5563?style=flat-square)
+![Embedded System Design](https://img.shields.io/badge/Embedded%20System%20Design-4B5563?style=flat-square)
 
----
+**Communication Protocols**
 
-## 📊 GitHub Stats
+![UART](https://img.shields.io/badge/UART-1F6FEB?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-1F6FEB?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-1F6FEB?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-1F6FEB?style=flat-square)
 
-<div align="center">
-  <a href="[https://github.com/Haridharan1412]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haridharan-ks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/haridharan-ks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridharan-ks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+**VLSI & FPGA**
 
----
+![VLSI Design](https://img.shields.io/badge/VLSI%20Design%20Concepts-543978?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA%20Development-C0392B?style=flat-square)
+![Verilog](https://img.shields.io/badge/RTL%20in%20Verilog-543978?style=flat-square)
 
-## 💼 Education & Certifications
+**EDA, PCB & Simulation Tools**
 
-<details>
-<summary><b>🎓 B.Tech – Electronics & Communication Engineering | VIT Chennai | 2021–2025</b></summary>
-<br/>
+![Cadence](https://img.shields.io/badge/Cadence-E4002B?style=flat-square)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square)
+![LTspice](https://img.shields.io/badge/LTspice-0F766E?style=flat-square)
+![PCB Design](https://img.shields.io/badge/PCB%20Design-15803D?style=flat-square)
 
-> ![VIT](https://img.shields.io/badge/VIT%20Chennai-8B0000?style=flat-square) ![ECE](https://img.shields.io/badge/ECE-bf91f3?style=flat-square)
+**IoT Technologies**
 
-- Graduated with a B.Tech in Electronics & Communication Engineering from VIT Chennai (2025).
-- Gained strong foundations in embedded systems, IoT, and signal processing.
-- Self-learned data analytics tools (SQL, Power BI, Python/Pandas) alongside core ECE curriculum.
-- Served as Discipline Committee Member for Vibrance (cultural fest) and Hostel Representative for Boys Hostel.
+![IoT Systems](https://img.shields.io/badge/IoT%20Systems-0891B2?style=flat-square)
+![Blynk](https://img.shields.io/badge/Blynk%20IoT%20Platform-23C48E?style=flat-square)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi%20Connectivity-0891B2?style=flat-square&logo=wifi&logoColor=white)
 
-</details>
+**Development Tools**
 
-<details>
-<summary><b>📜 Certifications | IIT Bombay · Google · Microsoft</b></summary>
-<br/>
+![Keil](https://img.shields.io/badge/Keil%20%CE%BCVision-007ACC?style=flat-square)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-> ![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-003087?style=flat-square) ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+**Hardware Testing & Debugging**
 
-- **MySQL** – IIT Bombay NPTEL Certification (2022)
-- **Java** – IIT Bombay NPTEL Certification (2022)
-- **Google Cloud Computing Foundations Program** – Google (2023)
-- **Microsoft Azure Administrator Associate (AZ-104)** – Microsoft (2024)
+![Oscilloscopes](https://img.shields.io/badge/Oscilloscopes-374151?style=flat-square)
+![Logic Analyzers](https://img.shields.io/badge/Logic%20Analyzers-374151?style=flat-square)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-374151?style=flat-square)
 
-</details>
+**Cloud & Other**
+
+![Microsoft Azure](https://img.shields.io/badge/Azure%20(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -143,104 +119,105 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**📊 Sales Insights Dashboard**](#) | Power BI · SQL · MySQL · Power Query · DAX | **3-page interactive dashboard** (Key Insights · Profit Analysis · Performance Insights); KPIs: **₹142M revenue**, **350K sales qty**, **₹2.1M total profit margin** (2020); star-schema data model across 5 tables (transactions, customers, markets, products, date); USD→INR currency normalisation via Power Query `norm_amount` column; **9 SQL queries** for EDA — market-wise filtering, yearly & monthly revenue aggregation, multi-currency joins; top customer **Electricalsara Stores ₹66M**; Delhi NCR leads at **54.7% revenue contribution**; Lucknow identified as loss market at **−2.7% profit margin** |
-| [**🤖 Gesture-Controlled PowerPoint**](#) | Python · OpenCV · cvzone · NumPy · SpeechRecognition | Real-time **1280×720** hand-tracking system using cvzone's HandDetector (80% confidence); **5 gesture commands** — index finger draws annotations, 2-finger pointer, 3-finger undo, thumb-left/pinky-right for slide navigation; live webcam feed overlaid as PiP thumbnail; extended version adds **Slider** (all-5-fingers, 2s hold) and **Pen mode** (3-finger) indicators; works hands-free with zero physical peripherals |
-| [**🏥 IoT Fall Detection System for Elderly**](#) | Arduino · ESP8266 · MPU6050 | Accelerometer-based fall detection with real-time wireless alerts to caregivers; iterative calibration to minimise false positives; instant notification via ESP8266 Wi-Fi module |
+| [**🧠 FPGA Implementation of CNN for Brain Tumour Detection**](https://github.com/haridharan-ks?tab=repositories) | Verilog · FPGA · TensorFlow | Trained a **CNN in TensorFlow** to detect brain tumours from MRI images (preprocessing, feature extraction, model optimisation); **extracted and quantised model parameters** for FPGA deployment; implemented **convolution, ReLU, max-pooling, and fully connected layers in Verilog**; applied hardware-aware techniques to optimise FPGA resource utilisation for **real-time, low-latency, energy-efficient** medical image analysis |
+| [**🏥 IoT Fall Detection System for Elderly**](https://github.com/haridharan-ks?tab=repositories) | Arduino · ESP8266 · MPU6050 · Blynk | Real-time fall detection using **accelerometer and gyroscope data** with threshold-based motion analysis; automatic **emergency alerts over Wi-Fi**; live monitoring and instant caregiver notifications through the **Blynk IoT platform**; designed and validated the full hardware architecture, sensor interfacing, and Arduino IDE firmware for stable detection performance |
 
 </div>
 
 <details>
-<summary><b>📊 Sales Insights Dashboard — Data Model & SQL Reference</b></summary>
+<summary><b>🏥 IoT Fall Detection — Architecture Overview</b></summary>
 <br/>
 
-**Star Schema — 5 Tables**
-
-| Table | Key Fields |
-|:------|:-----------|
-| `Sales transactions` | order_date, product_code, market_code, currency, sales_amount, norm_sales_amount, Cost_Price, Profit_Margin, ProfitMargin% |
-| `sales customers` | customer_name, customer_code, customer_type |
-| `sales markets` | markets_code, markets_name, zone |
-| `sales products` | product_code, product_type |
-| `sales date` | date, cy_date, date_yy_mmm, month_name, year |
-
-**Key SQL Queries**
-```sql
--- Total revenue in 2020 (multi-currency)
-SELECT SUM(transactions.sales_amount)
-FROM transactions
-INNER JOIN date ON transactions.order_date = date.date
-WHERE date.year = 2020
-  AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
-
--- Chennai-specific transactions
-SELECT * FROM transactions WHERE market_code = 'Mark001';
-
--- Monthly revenue (Jan 2020)
-SELECT SUM(transactions.sales_amount)
-FROM transactions
-INNER JOIN date ON transactions.order_date = date.date
-WHERE date.year = 2020 AND date.month_name = 'January';
 ```
-
-**Power Query — Currency Normalisation**
+ MPU6050 (Accelerometer + Gyroscope)
+            │  I2C
+            ▼
+   ESP8266 (Threshold-based motion analysis)
+            │  Wi-Fi
+            ▼
+   Blynk IoT Platform ──► Caregiver alerts & remote status monitoring
 ```
-= Table.AddColumn(#"Filtered Rows", "norm_amount",
-    each if [currency] = "USD" or [currency] = "USD#(cr)"
-    then [sales_amount] * 75
-    else [sales_amount], type any)
-```
-
-> Dashboard has **3 report pages**: Key Insights · Profit Analysis · Performance Insights · Year/Month slicers (2017–2020)
 
 </details>
 
 <details>
-<summary><b>🖐️ Gesture-Controlled PowerPoint — Gesture Command Reference</b></summary>
+<summary><b>🧠 FPGA CNN — Pipeline Overview</b></summary>
 <br/>
 
-| Gesture | Fingers Up | Action |
-|:--------|:-----------|:-------|
-| ☝️ Index only | `[0,1,0,0,0]` | Draw / annotate on slide |
-| ✌️ Index + Middle | `[0,1,1,0,0]` | Pointer cursor (no annotation) |
-| 🤟 Index + Middle + Ring | `[0,1,1,1,0]` | Undo last annotation |
-| 👍 Thumb only (above threshold) | `[1,0,0,0,0]` | Previous slide |
-| 🤙 Pinky only (above threshold) | `[0,0,0,0,1]` | Next slide |
-| ✋ All five fingers (hold 2s) | `[1,1,1,1,1]` | Slider mode ON |
-| 🤘 Middle + Ring + Pinky | `[0,0,1,1,1]` | Pen mode ON |
+```
+ MRI images ─► TensorFlow CNN training ─► Parameter extraction & quantisation
+                                                      │
+                                                      ▼
+   Verilog layers: Convolution → ReLU → Max-Pooling → Fully Connected
+                                                      │
+                                                      ▼
+                          FPGA deployment & resource-utilisation optimisation
+```
 
-> Built with **cvzone** `HandDetector` at 80% confidence · **1280×720** resolution · gesture threshold at y=300px · 30-frame debounce delay
+</details>
+
+<details>
+<summary><b>🖐️ Additional Project — Gesture-Controlled PowerPoint</b></summary>
+<br/>
+
+Hands-free presentation control built with **Python · OpenCV · cvzone · NumPy**. A real-time 1280×720 hand-tracking system (cvzone `HandDetector`, 80% confidence) maps finger gestures to slide navigation, annotation, pointer, and undo — no physical clicker required.
 
 </details>
 
 ---
 
-## 🏅 Achievements
+## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/haridharan-ks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haridharan-ks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/haridharan-ks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridharan-ks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| ☁️ | **Microsoft Azure Administrator Associate** | Passed AZ-104 certification exam (2024) |
-| 🌐 | **Google Cloud Computing Foundations** | Completed Google Cloud program (2023) |
-| 🎓 | **Dual IIT Bombay Certifications** | MySQL & Java certified via NPTEL (2022) |
-| 🎙️ | **Discipline Committee – Vibrance** | Leadership role at VIT Chennai's annual cultural festival |
-| 🏠 | **Hostel Representative** | C Block Boys Hostel, VIT Chennai |
-| 📡 | **IoT System Published** | Developed a deployable IoT fall-detection system for elderly safety |
-| 📊 | **End-to-End BI Project** | Delivered a full Sales Insights Dashboard with stakeholder-ready data storytelling |
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=haridharan-ks&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🎓 Education
 
-```
-🧱 Advanced Power BI  →  DAX formulas, Row-level Security, Paginated Reports
-🐍 Python for Data    →  NumPy, Scikit-learn, Matplotlib, Seaborn
-☁️ Azure Data Stack   →  Azure Data Factory, Synapse Analytics, Data Lake
-🗄️ Database Deep Dive →  Query Optimisation, Window Functions, Stored Procedures
-📈 Statistics         →  Hypothesis Testing, Regression Analysis, A/B Testing
-```
+<details>
+<summary><b>🎓 B.Tech – Electronics & Communication Engineering | Vellore Institute of Technology, Chennai | 2025</b></summary>
+<br/>
+
+- **CGPA:** 7.52 / 10
+- Core focus on embedded systems, VLSI design, IoT, and electronic system design.
+- Hands-on work in FPGA-based development and hardware-software integration.
+
+</details>
+
+<details>
+<summary><b>📘 Senior Secondary – CBSE | Velammal Bodhi Campus, Madurai | 2021</b></summary>
+</details>
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|:--------------|:-------|
+| **Verilog: VLSI Hardware Design** | Udemy |
+| **Microcontroller Embedded C Programming** | Udemy |
+| **Microsoft Azure Administrator Associate (AZ-104)** | Microsoft |
+| **Google Cloud Computing Foundations Program** | Google |
+| **Data Visualization** | Tata |
+| **MySQL** | IIT Bombay (NPTEL) |
+
+---
+
+## 🤝 Positions of Responsibility
+
+- **Discipline Committee Member, VIT Chennai** — coordinated large-scale event operations and demonstrated leadership.
+- **Hostel Representative, Boys Hostel, VIT Chennai** — served as the liaison between the student body and administration, resolving issues.
 
 ---
 
@@ -250,10 +227,27 @@ WHERE date.year = 2020 AND date.month_name = 'January';
 ![Tamil](https://img.shields.io/badge/Tamil-Native-bf91f3?style=flat-square)
 ![Hindi](https://img.shields.io/badge/Hindi-Limited%20Proficiency-38bdae?style=flat-square)
 
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:haridharanw800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-haridharanw800@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hari-dharan-ks-64325a287">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/haridharan-ks">
+    <img src="https://img.shields.io/badge/GitHub-haridharan--ks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Phone-%2B91--8148277482-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
-  <i>"Data is the new oil. The question is — can you refine it?"</i>
+  <i>"Good hardware is invisible — it just works."</i>
 </p>
 
 <p align="center">
