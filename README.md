@@ -24,6 +24,8 @@
 
 I'm an **Electronics & Communication Engineering graduate from VIT Chennai (2025)** with a strong foundation in **Embedded Systems, VLSI Design, and IoT**. My hands-on experience spans **FPGA-based development, hardware-software integration, and electronic system design**. I'm looking to contribute to semiconductor technologies and innovative engineering solutions in **Core Electronics, Embedded, VLSI, FPGA, and IoT** roles.
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```python
 class Haridharan:
     def __init__(self):
@@ -48,6 +50,8 @@ class Haridharan:
 me = Haridharan()
 print(me.motto())
 ```
+
+<br clear="right"/>
 
 ---
 
