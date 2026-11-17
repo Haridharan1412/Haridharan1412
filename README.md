@@ -84,18 +84,11 @@ print(me.motto())
 ![FPGA](https://img.shields.io/badge/FPGA%20Development-C0392B?style=flat-square)
 ![Verilog](https://img.shields.io/badge/RTL%20in%20Verilog-543978?style=flat-square)
 
-**EDA, PCB & Simulation Tools**
+**Simulation Tools**
 
 ![Cadence](https://img.shields.io/badge/Cadence-E4002B?style=flat-square)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square)
 ![LTspice](https://img.shields.io/badge/LTspice-0F766E?style=flat-square)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-15803D?style=flat-square)
-
-**IoT Technologies**
-
-![IoT Systems](https://img.shields.io/badge/IoT%20Systems-0891B2?style=flat-square)
-![Blynk](https://img.shields.io/badge/Blynk%20IoT%20Platform-23C48E?style=flat-square)
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi%20Connectivity-0891B2?style=flat-square&logo=wifi&logoColor=white)
 
 **Development Tools**
 
@@ -170,30 +163,12 @@ Hands-free presentation control built with **Python · OpenCV · cvzone · NumPy
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/haridharan-ks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haridharan-ks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/haridharan-ks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridharan-ks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=haridharan-ks&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎓 Education
 
 <details>
 <summary><b>🎓 B.Tech – Electronics & Communication Engineering | Vellore Institute of Technology, Chennai | 2025</b></summary>
 <br/>
 
-- **CGPA:** 7.52 / 10
 - Core focus on embedded systems, VLSI design, IoT, and electronic system design.
 - Hands-on work in FPGA-based development and hardware-software integration.
 
@@ -213,7 +188,7 @@ Hands-free presentation control built with **Python · OpenCV · cvzone · NumPy
 | **Microcontroller Embedded C Programming** | Udemy |
 | **Microsoft Azure Administrator Associate (AZ-104)** | Microsoft |
 | **Google Cloud Computing Foundations Program** | Google |
-| **Data Visualization** | Tata |
+| **Data Analytics Essentials** | Cisco |
 | **MySQL** | IIT Bombay (NPTEL) |
 
 ---
@@ -238,12 +213,6 @@ Hands-free presentation control built with **Python · OpenCV · cvzone · NumPy
 <p align="center">
   <a href="mailto:haridharanw800@gmail.com">
     <img src="https://img.shields.io/badge/Email-haridharanw800@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hari-dharan-ks-64325a287">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/haridharan-ks">
-    <img src="https://img.shields.io/badge/GitHub-haridharan--ks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Phone-%2B91--8148277482-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </p>
